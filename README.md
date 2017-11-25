@@ -1,4 +1,4 @@
-Problem Statement
+**Problem Statement**
 
 Kickstarter is a community of more than 10 million people comprising of creative, tech enthusiasts who help in bringing creative project to life. Till now, more than $3 billion dollars have been contributed by the members in fueling creative projects. The projects can be literally anything – a device, a game, an app, a film etc.
 
@@ -8,6 +8,6 @@ Recently, Kickstarter released its public data repository to allow researchers a
 
 In this challenge, you have to predict if a project will get successfully funded or not.
 
-Data Description
+**Data Description**
 
 There are three files given to download: train.csv, test.csv and sample_submission.csv
